@@ -6,3 +6,4 @@ clone repository
 *This text is italics*\
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
+> Text that is quote
