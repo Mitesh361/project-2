@@ -7,6 +7,6 @@ clone repository
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
 > Text that is in quote\
-```I do not know why this is```
+```I do not know why this is```>
 #Image
 ![Cat](https://myoctocat.com/assets/images/base-octocat.svg)
