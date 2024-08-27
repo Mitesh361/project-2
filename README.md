@@ -7,8 +7,4 @@ clone repository
 ***This text is both bold and italics***\
 ~~OOPS I made an error~~
 > Text that is in quote
-```
-I do not know why this is
-This does not makre sense
-lol
-```
+```I do not know why this is```
